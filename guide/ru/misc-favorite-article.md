@@ -18,6 +18,7 @@
 ## Yii2
 
 * [Дмитрий Елисеев. Блог](http://www.elisdn.ru/)
+* [Дмитрий Елисеев. Сервис на Yii2: Тестирование приложения с Codeception](http://www.elisdn.ru/blog/84/seo-service-on-yii2-application-testing/)
 * [Yiico](http://yiico.ru/)
 * [Слоистая архитектура для Yii приложений](http://developer.uz/blog/layered-structure-for-yii-app/)
 * [Разработка приложений на Yii2 без опыта — прямой путь в АД](https://habrahabr.ru/post/273615/)
