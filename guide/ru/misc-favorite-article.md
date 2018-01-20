@@ -7,6 +7,7 @@
 * [OpenSource-им PHP код](http://rmcreative.ru/blog/post/opensource-im-php-kod#comments)
 * [Рефакторинг.Гуру](https://refactoring.guru/ru)
 * [Применение принципа poka-yoke в программировании на примере PHP](https://habrahabr.ru/company/badoo/blog/333592/)
+* [Документирование PHP кода. DocBlock комментарии](http://omurashov.ru/docblock-in-php-documentation/)
 
 ## ООП
 
