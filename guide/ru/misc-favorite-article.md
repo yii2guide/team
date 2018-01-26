@@ -25,6 +25,7 @@
 * [Разработка приложений на Yii2 без опыта — прямой путь в АД](https://habrahabr.ru/post/273615/)
 * [Yii2: все плюшки Twitter Bootstrap](https://nix-tips.ru/yii2-vse-plyushki-twitter-bootstrap.html)
 * [Yii2: Современный стиль PHP кода](https://nix-tips.ru/yii2-sovremennyj-stil-php-koda.html)
+* [Несколько полезных приемов для разработки на Yii 2](https://habrahabr.ru/post/303406/)
 
 ## REST API
 
