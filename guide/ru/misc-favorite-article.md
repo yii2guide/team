@@ -8,6 +8,7 @@
 * [Рефакторинг.Гуру](https://refactoring.guru/ru)
 * [Применение принципа poka-yoke в программировании на примере PHP](https://habrahabr.ru/company/badoo/blog/333592/)
 * [Документирование PHP кода. DocBlock комментарии](http://omurashov.ru/docblock-in-php-documentation/)
+* [Ведите CHANGELOG](http://keepachangelog.com/ru/0.3.0/)
 
 ## ООП
 
