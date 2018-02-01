@@ -60,3 +60,4 @@
 * [Семантическое Версионирование 2.0.0](http://semver.org/lang/ru/)
 * [May the Code Review be with you](https://habrahabr.ru/company/avito/blog/330846/)
 * [Programming stuff](http://sergeyteplyakov.blogspot.com/)
+* [Подключение к Git по SSH в Windows без PuttyGen на примере BitBucket](https://habrahabr.ru/post/266667/)
