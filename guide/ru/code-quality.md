@@ -11,4 +11,4 @@
 Для более полного понимания, рекомендуется прочитать книгу: 
 **Совершенный код**, *Стив Макконнелл*.
 
-Шпаргалка находится в [репозитории](http://git.wooppay.local/vyamchshikov/perfect-code) (основные идеи из книги)
+Шпаргалка находится в [здесь](https://github.com/yii2guide/perfect-code/blob/master/guide/ru/README.md) (основные идеи из книги)
