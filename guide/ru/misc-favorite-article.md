@@ -38,6 +38,7 @@
 * [Правила хорошего тона для API](https://habrahabr.ru/company/zerotech/blog/333884/)
 * [Yii2 RESTful API-интерфейс для AngularJS](https://habrahabr.ru/post/318242/)
 * [Yii2: Простое приложение c AngularJS фронтендом](https://nix-tips.ru/yii2-prostoe-prilozhenie-c-angularjs-frontendom-vvedenie.html)
+* [Разработка одностраничных приложений на Angular.js](https://mkdev.me/posts/zachem-nuzhen-angular-js-i-pochemu-imenno-on)
 * [YII2 Rest — авторизация](http://web-andryshka.ru/yii2-rest-avtorizacia/)
 
 Ролики
