@@ -17,3 +17,4 @@
 * [Термины](misc-terms.md)
 * [Интересные статьи](misc-favorite-article.md)
 * [Рекомендуемая литература](misc-recommended-literature.md)
+* [Рецепты](misc-cookies.md)
