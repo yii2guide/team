@@ -9,6 +9,7 @@
 * [Применение принципа poka-yoke в программировании на примере PHP](https://habrahabr.ru/company/badoo/blog/333592/)
 * [Документирование PHP кода. DocBlock комментарии](http://omurashov.ru/docblock-in-php-documentation/)
 * [Ведите CHANGELOG](http://keepachangelog.com/ru/0.3.0/)
+* [Популярные примеры работы регулярных выражений в PHP](http://tradebenefit.ru/art?id=143)
 
 ## ООП
 
