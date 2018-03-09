@@ -42,7 +42,7 @@
 * [Разработка одностраничных приложений на Angular.js](https://mkdev.me/posts/zachem-nuzhen-angular-js-i-pochemu-imenno-on)
 * [YII2 Rest — авторизация](http://web-andryshka.ru/yii2-rest-avtorizacia/)
 
-Ролики
+### Ролики
 
 * [Построение и тестирование REST API в Yii2](https://www.youtube.com/watch?v=jDj_JggZXsU)
 * [REST API в Yii2 Часть 1. Теория. XML-RPC, JSON-RPC, SOAP.](https://www.youtube.com/watch?v=KTL10u845Lg)
@@ -61,6 +61,11 @@
 
 * [Проблемно-ориентированное проектирование (Domain-driven design)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 * [Введение в проблемно-ориентированное проектирование](https://msdn.microsoft.com/ru-ru/magazine/dd419654.aspx)
+* [Domain-Driven Design: стратегическое проектирование. Часть 1](https://habrahabr.ru/post/316438/)
+
+### Ролики
+
+* [Николай Гребнев, Domain Driven Design в условиях разработки распределенных приложений ](https://www.youtube.com/watch?v=JVJV76uVKXo&list=PL0OVFXlocWuKQd7kPGR1cGecDYI-J1ahn)
 
 ## Разное
 
