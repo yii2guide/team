@@ -53,10 +53,14 @@
 
 ## Архитектура
 
-* [Проблемно-ориентированное проектирование (Domain-driven design)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 * [Основы CQRS](https://habrahabr.ru/company/simbirsoft/blog/329970/)
 * [Признаки проблемного дизайна](https://habrahabr.ru/post/331732/)
 * [Прочитайте код своего продукта. Весь](https://habrahabr.ru/company/infopulse/blog/333488/)
+
+## Domain Driven Design
+
+* [Проблемно-ориентированное проектирование (Domain-driven design)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+* [Введение в проблемно-ориентированное проектирование](https://msdn.microsoft.com/ru-ru/magazine/dd419654.aspx)
 
 ## Разное
 
