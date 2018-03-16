@@ -66,6 +66,7 @@
 ### Ролики
 
 * [Николай Гребнев, Domain Driven Design в условиях разработки распределенных приложений ](https://www.youtube.com/watch?v=JVJV76uVKXo&list=PL0OVFXlocWuKQd7kPGR1cGecDYI-J1ahn)
+* [Yii2 — структура большого проекта](https://www.youtube.com/watch?v=uj6inHmDmAY)
 
 ## Разное
 
