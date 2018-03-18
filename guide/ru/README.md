@@ -10,6 +10,15 @@
 * [Code Review](code-review.md)
 * [To Do](code-todo.md)
 
+## Шпаргалки
+
+* [ООП](cheat-sheet-oop.md)
+* [SOLID](cheat-sheet-solid.md)
+* [GRASP](cheat-sheet-grasp.md)
+* [FURPS](cheat-sheet-furps.md)
+* [Связность и связанность](cheat-sheet-cohesion-and-coupling.md)
+* [Обходной приём (костыль)](cheat-sheet-cohesion-and-crutch.md)
+
 ## Разное
 
 * [Правила GIT](misc-git.md)
