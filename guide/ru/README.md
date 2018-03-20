@@ -19,6 +19,10 @@
 * [Связность и связанность](cheat-sheet-cohesion-and-coupling.md)
 * [Обходной приём (костыль)](cheat-sheet-cohesion-and-crutch.md)
 
+## Среда разработки
+
+* [Настройка Open Server](env-open-server.md)
+
 ## Разное
 
 * [Правила GIT](misc-git.md)
