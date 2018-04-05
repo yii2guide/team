@@ -70,6 +70,7 @@
 
 ## Разное
 
+* [Pull request'ы на GitHub или Как мне внести изменения в чужой проект](https://habrahabr.ru/post/125999/)
 * [Семантическое Версионирование 2.0.0](http://semver.org/lang/ru/)
 * [May the Code Review be with you](https://habrahabr.ru/company/avito/blog/330846/)
 * [Programming stuff](http://sergeyteplyakov.blogspot.com/)
