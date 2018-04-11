@@ -18,6 +18,10 @@
 * [Паттерны проектирования](http://design-pattern.ru/index.html)
 * [Шаблоны проектирования в PHP](http://devacademy.ru/posts/shablony-proiektirovaniia-v-php/)
 
+### Ролики
+
+* [Шаблоны разработки ПО. Шаблоны GRASP ](https://www.youtube.com/watch?v=U5MjXRp3Z-Y)
+
 ## Yii2
 
 * [Дмитрий Елисеев. Блог](http://www.elisdn.ru/)
@@ -76,3 +80,4 @@
 * [Programming stuff](http://sergeyteplyakov.blogspot.com/)
 * [Подключение к Git по SSH в Windows без PuttyGen на примере BitBucket](https://habrahabr.ru/post/266667/)
 * [Обзор процесса разработки программного обеспечения](https://habrahabr.ru/post/255991/)
+* [UML редактор](https://yuml.me/diagram/scruffy/class/draw)
