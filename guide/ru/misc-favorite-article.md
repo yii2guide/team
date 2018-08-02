@@ -82,3 +82,4 @@
 * [Подключение к Git по SSH в Windows без PuttyGen на примере BitBucket](https://habrahabr.ru/post/266667/)
 * [Обзор процесса разработки программного обеспечения](https://habrahabr.ru/post/255991/)
 * [UML редактор](https://yuml.me/diagram/scruffy/class/draw)
+* [Composer для самых маленьких](https://habr.com/sandbox/112640/)
