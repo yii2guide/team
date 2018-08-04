@@ -83,3 +83,4 @@
 * [Обзор процесса разработки программного обеспечения](https://habrahabr.ru/post/255991/)
 * [UML редактор](https://yuml.me/diagram/scruffy/class/draw)
 * [Composer для самых маленьких](https://habr.com/sandbox/112640/)
+* [Вложенные массивы и Magic Methods](https://habr.com/post/103834/)
