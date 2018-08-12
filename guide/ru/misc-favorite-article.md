@@ -84,3 +84,4 @@
 * [UML редактор](https://yuml.me/diagram/scruffy/class/draw)
 * [Composer для самых маленьких](https://habr.com/sandbox/112640/)
 * [Вложенные массивы и Magic Methods](https://habr.com/post/103834/)
+* [JQuery HTML CSS - Frontend Cправочник - практические примеры кода - "как сделать" - пример (java script справочник онлайн)](http://fkn.ktu10.com/?q=node/6565)
