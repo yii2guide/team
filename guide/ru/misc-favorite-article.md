@@ -85,8 +85,10 @@
 * [Composer для самых маленьких](https://habr.com/sandbox/112640/)
 * [Вложенные массивы и Magic Methods](https://habr.com/post/103834/)
 * [JQuery HTML CSS - Frontend Cправочник - практические примеры кода - "как сделать" - пример (java script справочник онлайн)](http://fkn.ktu10.com/?q=node/6565)
+* [30 чудных библиотек для PHP программистов](https://habr.com/post/252851/)
+* [23 замечательных PHP-библиотеки, о которых вам стоит знать](http://www.codeharmony.ru/materials/151)
+* [Как написать одностраничное приложение (SPA) с использованием Vue.js](https://habr.com/post/350750/)
 
 ### Ролики
-
 * [Уроки Vue.js для начинающих](https://www.youtube.com/watch?v=NtlVno8igVQ&list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum)
-* [Как написать одностраничное приложение (SPA) с использованием Vue.js](https://habr.com/post/350750/)
+
