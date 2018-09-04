@@ -89,6 +89,7 @@
 * [23 замечательных PHP-библиотеки, о которых вам стоит знать](http://www.codeharmony.ru/materials/151)
 * [Как написать одностраничное приложение (SPA) с использованием Vue.js](https://habr.com/post/350750/)
 * [Коллекция анимированных спиннеров](https://loading.io/spinner/)
+* [Пособие по webpack](https://habr.com/post/309306/)
 
 ## VueJS
 
