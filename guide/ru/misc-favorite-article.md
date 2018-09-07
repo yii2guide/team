@@ -90,6 +90,7 @@
 * [Как написать одностраничное приложение (SPA) с использованием Vue.js](https://habr.com/post/350750/)
 * [Коллекция анимированных спиннеров](https://loading.io/spinner/)
 * [Пособие по webpack](https://habr.com/post/309306/)
+* [Composer: Шпаргалка команд](https://phpprofi.ru/blogs/post/52)
 
 ## VueJS
 
