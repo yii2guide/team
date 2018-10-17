@@ -91,6 +91,7 @@
 * [Коллекция анимированных спиннеров](https://loading.io/spinner/)
 * [Пособие по webpack](https://habr.com/post/309306/)
 * [Composer: Шпаргалка команд](https://phpprofi.ru/blogs/post/52)
+* [Регулярные выражения для валидации распространенных видов данных](https://habr.com/post/123845)
 
 ## VueJS
 
